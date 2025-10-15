@@ -12,7 +12,7 @@ theme = 'hugo-profile'
 		theme = { disableThemeToggle = true, defaultTheme = "light" }
 	font = { fontSize = "1rem", fontWeight = 400, lineHeight = 1.5, textAlign = "left" }
 					navbar = { align = "ms-auto", disableSearch = true, brandLogo = "/logo.svg", showBrandLogo = true, hideBrandText = true }
-	hero = { enable = true, intro = "Hi, we are", title = "apollotech software", subtitle = "We empower change in the emerging market through innovative ICT solutions.", content = "and we do it with Integrity, Competence and Teamwork.", image = "/images/hero.svg", bottomImage = { enable = true }, button = { enable = false }, socialLinks = { fontAwesomeIcons = [], customIcons = [] } }
+	hero = { enable = true, intro = "Hi, we are", title = "apollotech software", subtitle = "We empower change in emerging markets through innovative ICT solutions.", content = "and we do it with Integrity, Competence and Teamwork.", image = "/images/hero.svg", bottomImage = { enable = true }, button = { enable = false }, socialLinks = { fontAwesomeIcons = [], customIcons = [] } }
 	about = { enable = true, title = "About Us", image = "/images/me.png", content = "ApolloTech Co. is a technology company focused on innovation and excellence.", skills = { enable = true, title = "Technologies we use:", items = ["Cloud", "AI", "Web", "Mobile"] } }
 
 [outputs]
